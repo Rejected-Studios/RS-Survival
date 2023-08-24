@@ -1,4 +1,20 @@
 #
+## **1.0.2**
+
+Forge 43.2.21
+
+Changes Additions and Fixes
+
+- Disabled biomepedia in player inventory
+
+
+**Mods Added**
+
+- Quark-3.4-409
+- corpse-1.19.2-1.0.0
+- AutoRegLib-1.8.2-55
+
+#
 ## **1.0.1**
 
 Forge 43.2.21
